@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594880858252",
+    "firebase_url": "https://receipedata-e3460.firebaseio.com",
+    "project_id": "receipedata-e3460",
+    "storage_bucket": "receipedata-e3460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594880858252:android:11b7c7d1392027646813a9",
+        "android_client_info": {
+          "package_name": "com.example.recipedatabaseoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594880858252-9te2d6j7uf9lt3jnfme54mqaf0r97ijk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDPECm5GMxxJc92XDXUCg0VYDkQZET69w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594880858252-9te2d6j7uf9lt3jnfme54mqaf0r97ijk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
